@@ -53,9 +53,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ghadge&show_icons=true&theme=tokyonight)  
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg1366&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ghadge&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1366&layout=compact&theme=tokyonight)  
 
 ---
 
