@@ -15,23 +15,26 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-- **Languages & Frameworks**: `HTML`, `CSS`, `JavaScript`, `ReactJS`, `NextJS`
-- **Styling**: `TailwindCSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
 
 ### 🖥️ Backend
-- **Runtime & Frameworks**: `NodeJS`, `ExpressJS`
-- **Database**: `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### ⚡ State Management
-- `Redux`
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
 
 ---
 
 ## 🧰 Tools & Platforms
-- **Development**: `VS Code`, `Postman`, `NPM`
-- **Version Control & Collaboration**: `Git`, `GitHub`
-- **Communication**: `Microsoft Teams`, `Slack`
-- **OS**: `Windows`
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,git,github,windows" />
+</p>
 
 ---
 
@@ -43,7 +46,15 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](#)  
-- 📧 rohan@example.com  
+<p>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rohan@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
