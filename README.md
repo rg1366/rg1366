@@ -63,9 +63,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rg1366&show_icons=true&theme=tokyonight)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-ghadge&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ghadge&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rg1366&layout=compact&theme=tokyonight)  
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-ghadge&theme=algolia&hide=smalltalk&layout=compact" alt="GitHub Streak" />
+</p>
 
 ---
 
