@@ -65,11 +65,11 @@
 ## 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohan-ghadge&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ghadge&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg1366&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-ghadge&theme=algolia&hide=smalltalk&layout=compact" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rg1366&theme=algolia&hide=smalltalk&layout=compact" alt="GitHub Streak" />
 </p>
 
 ---
